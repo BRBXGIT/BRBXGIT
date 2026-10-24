@@ -35,20 +35,6 @@ Android Software Engineer crafting modern, scalable mobile applications with Kot
 
 #
 
-### 🛠️ Featured Open Source & Projects
-
-<!-- BEGIN PROJECT-CARDS -->
-[![BrbxMvi](https://github-readme-stats.vercel.app/api/pin/?username=BRBXGIT&repo=BrbxMvi&theme=gruvbox)](https://github.com/BRBXGIT/BrbxMvi)
-[![BRBXDevKit](https://github-readme-stats.vercel.app/api/pin/?username=BRBXGIT&repo=BRBXDevKit&theme=gruvbox)](https://github.com/BRBXGIT/BRBXDevKit)
-[![LibertyFlow](https://github-readme-stats.vercel.app/api/pin/?username=BRBXGIT&repo=LibertyFlow&theme=gruvbox)](https://github.com/BRBXGIT/LibertyFlow)
-[![AniKun](https://github-readme-stats.vercel.app/api/pin/?username=BRBXGIT&repo=AniKun&theme=gruvbox)](https://github.com/BRBXGIT/AniKun)
-[![CalorieCounter](https://github-readme-stats.vercel.app/api/pin/?username=BRBXGIT&repo=CalorieCounter&theme=gruvbox)](https://github.com/BRBXGIT/CalorieCounter)
-<!-- END PROJECT-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-blue?style=for-the-badge&logo=repo&logoColor=white"/>](https://github.com/BRBXGIT?tab=repositories)
-
-#
-
 <details>
   <summary><h3>👨‍💻 About Me & Engineering Journey</h3></summary>
   
