@@ -49,13 +49,6 @@ Android Software Engineer crafting modern, scalable mobile applications with Kot
 
 #
 
-### 📊 GitHub Stats
-
-![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=BRBXGIT&show_icons=true&theme=gruvbox&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BRBXGIT&layout=compact&theme=gruvbox)
-
-#
-
 <details>
   <summary><h3>👨‍💻 About Me & Engineering Journey</h3></summary>
   
